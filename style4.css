@@ -4,8 +4,7 @@
         }  
         
         body {
-           background-image: url("background.jpg");
-                background-color: rgb(106, 184, 237);
+           background-color: rgb(106, 184, 237);
         }
          .content {
                  max-width: 500px; margin: auto;}
